@@ -1,6 +1,6 @@
 # Project-Portfolio
 
-Project #1: Name
-Description;
+Project #1:
+Description
 
-project Link: 
+Project Link:
